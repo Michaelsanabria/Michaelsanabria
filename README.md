@@ -1,4 +1,7 @@
-Hi 👋 My name is Michael Sanabria =================================  Freelancer and aspiring cyber security researcher -------------------------------------------------  I have been teaching myself to code for the last 2 years and for as long as I can remember I've always been passionate about technology. I am currently working on a building a web portfolio and currently experimenting with swift.  * 🌍  I'm based in Miami, FL * ✉️  You can contact me at [sanabria.michael759@gmail.com](mailto:sanabria.michael759@gmail.com) * 🧠  I'm learning Pentesting * 🤝  I'm open to collaborating on IoT projects.
+Hi 👋 My name is Michael Sanabria
+I am an aspiring cyber security researcher 
+-------------------------------------------------
+I have been teaching myself to code for the last 2 years and for as long as I can remember I've always been passionate about technology. I am currently working on a building a web portfolio and currently experimenting with swift.  * 🌍  I'm based in Miami, FL.
 
 ### Skills
 
