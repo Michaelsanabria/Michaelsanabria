@@ -1,5 +1,5 @@
-Hi 👋 My name is Michael Sanabria
-I am an aspiring cyber security researcher 
+Michael Sanabria
+Aspiring cyber security researcher 
 -------------------------------------------------
  * 🌍  I'm based in Miami, FL.
 
