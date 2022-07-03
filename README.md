@@ -1,4 +1,4 @@
-Michael Sanabria
+Michael Sanabria,
 Aspiring cyber security researcher 
 -------------------------------------------------
  * 🌍  I'm based in Miami, FL.
