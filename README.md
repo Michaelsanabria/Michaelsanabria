@@ -1,5 +1,10 @@
 
--------------------------------------------------
+------------------------------------------------
+
+ Hi. I'm Michael and I'm a self-taught software engineer based in the US documenting my journey. I work full-time as a customer service relations specialist for a logistics company.
+ 
+ I'm also trying to build small exciting projects that allow me to explore new frameworks, new programming languages and new technologies.
+ 
  * 🌍  based in the United Stated.
 
  
