@@ -1,6 +1,6 @@
 
 ------------------------------------------------
-
+<!--
  Hi. I'm Michael and I'm a self-taught software engineer based in the US documenting my journey. I work full-time as a Logistics Coordinatior for a logistics company specializing in the Cold Supply Chain Management in the life science sector.
  
  I'm also trying to build small exciting projects that allow me to explore new frameworks, new programming languages and new technologies.
