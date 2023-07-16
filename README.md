@@ -1,12 +1,8 @@
-
-------------------------------------------------
-<!--
- Hi. I'm Michael and I'm a self-taught software engineer based in the US documenting my journey. I work full-time as a Logistics Coordinatior for a logistics company specializing in the Cold Supply Chain Management in the life science sector.
+Hi. I'm Michael and I'm a self-taught software engineer. I work full-time as a Logistics Coordinatior specializing in the Cold Supply Chain Management in the life science sector and international shipping. 
  
  I'm also trying to build small exciting projects that allow me to explore new frameworks, new programming languages and new technologies.
- 
- * 🌍  based in the United Stated.
 
+ * 🌍  based in the United Stated.
  
 <!-- GIF Section --!>
 <div id="header" align="center">
@@ -29,5 +25,3 @@ Youtube --!>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=michaelsanabria&theme=transparent&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
