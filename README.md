@@ -1,8 +1,8 @@
-<-- #### Hi. I'm Michael and I'm a self-taught software engineer. I work full-time as a Logistics Coordinatior specializing in the Cold Supply Chain Management in the life science sector and international shipping. 
+<!-- Hi. I'm Michael and I'm a self-taught software engineer. I work full-time as a Logistics Coordinatior specializing in the Cold Supply Chain Management in the life science sector and international shipping. 
  
  I'm also trying to build small exciting projects that allow me to explore new frameworks, new programming languages and new technologies.
 
- * 🌍  based in the United Stated. -->
+ * 🌍  based in the United Stated. --!>
  
 <!-- GIF Section --!>
 <div id="header" align="center">
