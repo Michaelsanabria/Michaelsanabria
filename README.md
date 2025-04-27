@@ -2,8 +2,6 @@
 
 👋 Hi, I’m Michael
 
-Aspiring Data Scientist | Backend Developer | Future Tech Entrepreneur
-
 🚀 About Me
 
 I’m a passionate computer engineering graduate with a strong interest in robotics, data science, and backend development. My journey into tech started with front-end development using HTML, CSS, and JavaScript, and has expanded into Python, with ongoing learning in C++ and C.
