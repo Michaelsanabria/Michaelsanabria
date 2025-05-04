@@ -1,6 +1,6 @@
 
 -------------------------------------------------
- * 🌍  I'm based in Miami, FL.
+ * 🌍 Based in Miami, FL.
 
 <b>My GitHub Stats</b>
 
